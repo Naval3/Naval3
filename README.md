@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Naval3.
-- I believe in continuously acquiring knowledge, and knowledge is never be wasted.
+- I believe in continuously acquiring knowledge, and knowledge never goes in vain.
 - 👀 New technology always intrigue me. I’m interested in Web Development.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
