@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Naval3.
 - I believe in continuously acquiring knowledge, and knowledge never goes in vain.
-- 👀 New technology always intrigue me. I’m interested in Web Development.
+- 👀 New technology always intrigue me. I’m interested in Web Development, App development, AI, ML.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects in related field.
 - 📫 How to reach me ...
 - My first love is Philosophy.
 
